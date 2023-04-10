@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Software License Agreement (BSD License)
-#
+#JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 # Copyright (c) 2008, Willow Garage, Inc.
 # All rights reserved.
 #
